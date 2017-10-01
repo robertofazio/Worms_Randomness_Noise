@@ -1,0 +1,7 @@
+.DS_Store
+config.make
+*.xcodeproj
+*.app
+Makefile
+*.plist
+*.xcconfig
